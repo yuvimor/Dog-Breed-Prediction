@@ -5,7 +5,7 @@
 > View Notebook @ https://github.com/yuvimor/Dog-Breed-Prediction/blob/6313ef3b362a06e35d3b527f3fd578eda96ce5ee/Notebook/Dog_Breed_Prediction.ipynb
 
 ### Introduction
-In this project, I used Keras and TensorFlow to build, train, and test a Convolutional Neural Network capable of identifying the breed of a dog in a supplied image.
+In this project, I used Keras and TensorFlow to build, train, and test a Convolutional Neural Network capable of identifying the breed of a dog in a supplied image which can be further used by different NGO's working on saving animals and for educational purposes also.
 
 Data Source: https://www.kaggle.com/datasets/catherinehorng/dogbreedidfromcomp
 
